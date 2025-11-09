@@ -22,4 +22,4 @@ Este proyecto es un servicio backend (API) construido con Node.js y Express para
 ## Endpoints de la API
 
  - POST --> /api/registrousuario --> Crea un nuevo usuario.
- - GET --> /api/verificacion/:Token --> Validación de Usuario
+ - GET --> /api/verificacion/:Token --> Validación de Usuario.
